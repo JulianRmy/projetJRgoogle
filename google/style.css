@@ -75,16 +75,26 @@ body{
 
 }
 #bouton1 {
-	font-family: arial,sans-serif;
-	font-size: 14px;
-	margin :10px;
-	cursor: pointer;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    font-family: arial,sans-serif;
+    font-size: 15px;
+    margin: 10px;
+    padding: 0 15px;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
 }
 #bouton2 {
-	font-family: arial,sans-serif;
-	font-size: 14px;
-	margin :10px;
-	cursor: pointer;
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    font-family: arial,sans-serif;
+    font-size: 15px;
+    margin: 10px;
+    padding: 0 15px;
+    line-height: 30px;
+    text-align: center;
+    cursor: pointer;
 }
 
 
