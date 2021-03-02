@@ -43,10 +43,12 @@ li {
 }
 
 #logo {
-	width: 30%;
+	width: 15%;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
+	padding-top: 190px;
+	padding-bottom: 20px;
 }
 
 body{
@@ -95,6 +97,10 @@ body{
     line-height: 30px;
     text-align: center;
     cursor: pointer;
+}
+
+#button1:hover {
+	text-decoration: underline;
 }
 
 
